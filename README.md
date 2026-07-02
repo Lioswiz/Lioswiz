@@ -12,19 +12,18 @@
 <h2>🌐 Connect with Me</h2>
 
 <p>
-  <a href="https://github.com/Lioswiz">
-    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+  <a href="https://github.com/Lioswiz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/edache-john-ekoja">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/edache-john-ekoja" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:edachejohnekoja@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
   </a>
 </p>
-
 
 <h2>👨‍💻 About Me</h2>
 
