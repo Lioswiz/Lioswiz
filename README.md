@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<h2>👨‍💻 About Me</h2>
+<h2>🤵🏿‍♂️ About Me</h2>
 
 <ul>
   <li>🔭 Building backend applications with <strong>Go</strong></li>
