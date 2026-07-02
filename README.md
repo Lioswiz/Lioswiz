@@ -41,11 +41,7 @@ Go • Python • JavaScript • HTML • CSS • Git • GitHub • Docker • 
 </b>
 </p>
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=yolo,quickdraw" />
-</p>
 
 # 📊 GitHub Stats
 
