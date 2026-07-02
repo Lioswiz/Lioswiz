@@ -24,11 +24,15 @@
 </p>
 
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2>👨‍💻 About Me</h2>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-🚀 Backend Developer • 🐹 Go Developer • 🤖 Learning AI Engineering • ☁️ Cloud Computing • 🏗️ System Design • 💡 Passionate About Solving Real-World Problems
-</marquee>
+<ul>
+  <li>🔭 Building backend applications with <strong>Go</strong></li>
+  <li>🌱 Learning <strong>AI Engineering</strong>, <strong>Cloud Computing</strong>, and <strong>System Design</strong></li>
+  <li>💡 Passionate about solving real-world problems</li>
+  <li>🎯 Goal: Become an <strong>AI-Native Backend Engineer</strong></li>
+</ul>
+<b></b>
 <h2>🛠️ Tech Stack</h2>
 
 <p>
