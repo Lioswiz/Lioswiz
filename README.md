@@ -1,37 +1,56 @@
-# Hi 👋, I'm Edache John Ekoja
+<h1 align="center">Hi 👋, I'm Edache John Ekoja</h1>
 
-Backend Developer | Go Developer | AI Enthusiast
+<p align="center">
+  <strong>Backend Developer • Go Developer • AI Enthusiast</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lioswiz">
+    <img src="https://img.shields.io/badge/GitHub-Lioswiz-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/edache-john-ekoja">
+    <img src="https://img.shields.io/badge/LinkedIn-Edache_John_Ekoja-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:edachejohnekoja@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building backend applications with **Go**
+- 🔭 Building backend applications with **Go**
 - 🌱 Learning **AI Engineering**, **Cloud Computing**, and **System Design**
-- 🎯 Working towards becoming an AI-Native Backend Engineer
-- 💡 I enjoy solving problems and building practical software.
+- 💡 Passionate about solving real-world problems
+- 🎯 Goal: Become an AI-Native Backend Engineer
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Go, Python, JavaScript, HTML, CSS
-- **Tools:** Git, GitHub, Linux, Docker, VS Code
-- **Databases:** PostgreSQL, MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,js,html,css,git,github,docker,linux,postgres,mysql,vscode" />
+</p>
+
+---
 
 ## 🏆 GitHub Achievements
 
 - 🥇 YOLO
 - ⚡ Quickdraw
 
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lioswiz&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lioswiz&layout=compact&theme=default)
-
-## 📫 Connect with Me
-
-- **GitHub:** https://github.com/Lioswiz
-- **LinkedIn:** https://www.linkedin.com/in/edache-john-ekoja
-- **Email:** edachejohnekoja@gmail.com
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lioswiz&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioswiz&layout=compact" />
+</p>
 
 ---
 
-*"Keep learning. Keep building. Keep improving."*
+<p align="center">
+  <i>"Keep learning. Keep building. Keep improving."</i>
+</p>
