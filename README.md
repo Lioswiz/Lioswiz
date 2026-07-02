@@ -26,7 +26,7 @@
 
 <ul>
   <li>🔭 Building backend applications with <strong>Go</strong></li>
-  <li>🌱 Learning <strong>AI Engineering</strong>, <strong>Cloud Computing</strong>, and <strong>System Design</strong></li>
+  <li>🌱 Learning <strong>AI Engineering</strong>, <strong>Cloud Computing</strong> and <strong>System Design</strong></li>
   <li>💡 Passionate about solving real-world problems</li>
   <li>🎯 Goal: Become an <strong>AI-Native Backend Engineer</strong></li>
 </ul>
