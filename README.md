@@ -12,9 +12,6 @@
 <h2>🌐 Connect with Me</h2>
 
 <p>
-  <a href="https://github.com/Lioswiz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
-  </a>
 
   <a href="https://www.linkedin.com/in/edache-john-ekoja" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
