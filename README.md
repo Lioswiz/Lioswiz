@@ -36,7 +36,7 @@ type Developer struct {
 var me = Developer{
     Name:     "Edache John Ekoja",
     Role:     "Backend Developer",
-    Language: "Go",
+    Language: "Go"
     Learning: []string{
         "AI Engineering",
         "Cloud Computing",
