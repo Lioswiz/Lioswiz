@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/edache-john-ekoja" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
-
+<b></b>
   <a href="mailto:edachejohnekoja@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
   </a>
