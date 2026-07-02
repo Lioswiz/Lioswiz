@@ -29,13 +29,17 @@
 <marquee behavior="scroll" direction="left" scrollamount="6">
 🚀 Backend Developer • 🐹 Go Developer • 🤖 Learning AI Engineering • ☁️ Cloud Computing • 🏗️ System Design • 💡 Passionate About Solving Real-World Problems
 </marquee>
-# 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=go,python,js,html,css,git,github,docker,linux,postgres,mysql,vscode&perline=6" />
 </p>
 
----
+<p>
+<b>
+Go • Python • JavaScript • HTML • CSS • Git • GitHub • Docker • Linux • PostgreSQL • MySQL • VS Code
+</b>
+</p>
 
 ## 🏆 GitHub Achievements
 
