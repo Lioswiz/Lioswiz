@@ -24,13 +24,11 @@
 </p>
 
 
-
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Backend+Applications+with+Go;Learning+AI+Engineering;Exploring+Cloud+Computing;Studying+System+Design;Passionate+About+Problem+Solving;Future+AI-Native+Backend+Engineer" />
-</p>
-
+<marquee behavior="scroll" direction="left" scrollamount="6">
+🚀 Backend Developer • 🐹 Go Developer • 🤖 Learning AI Engineering • ☁️ Cloud Computing • 🏗️ System Design • 💡 Passionate About Solving Real-World Problems
+</marquee>
 # 🛠️ Tech Stack
 
 <p align="center">
