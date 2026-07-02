@@ -23,23 +23,14 @@
   </a>
 </p>
 
-<h2 align="center">👨‍💻 About Me</h2>
 
-<table align="center">
-<tr>
-<td>
-
-🔭 <strong>Currently Building</strong><br>
-Backend applications with <strong>Go</strong>
-
-<br><br>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Backend+Applications+with+Go;Learning+AI+Engineering;Exploring+Cloud+Computing;Studying+System+Design;Passionate+About+Problem+Solving;Future+AI-Native+Backend+Engineer" />
 </p>
----
+
 # 🛠️ Tech Stack
 
 <p align="center">
