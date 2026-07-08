@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Go+Developer;AI+Enthusiast;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Fullstack+Developer;Go+Developer;AI+Enthusiast;Always+Learning+Something+New" />
 </p>
 
 <!-- Social Links -->
