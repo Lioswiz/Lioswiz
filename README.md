@@ -31,11 +31,17 @@
   <li>🎯 Goal: Become an <strong>AI-Native Backend Engineer</strong></li>
 </ul>
 <b></b>
+
 <h2>🛠️ Tech Stack</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python,js,html,css,git,github,docker,linux,postgres,mysql,vscode&perline=6" />
+<p align="center">
+  <img
+    src="./assets/tech-stack-3d.gif"
+    alt="Animated 3D Tech Stack"
+    width="900"
+  />
 </p>
+
 
 <p>
 <b>
