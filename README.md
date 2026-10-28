@@ -33,9 +33,7 @@
 <b></b>
 <h2>🛠️ Tech Stack</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python,js,html,css,git,github,docker,linux,postgres,mysql,vscode&perline=6" />
-</p>
+
 <h2 align="center">⚡ My Tech Stack</h2>
 
 <p align="center">
