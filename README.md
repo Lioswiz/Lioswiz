@@ -36,7 +36,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=go,python,js,html,css,git,github,docker,linux,postgres,mysql,vscode&perline=6" />
 </p>
+<h2 align="center">⚡ My Tech Stack</h2>
 
+<p align="center">
+  <img src="./assets/tech-stack.gif"
+       alt="Animated Tech Stack"
+       width="100%" />
+</p>
 <p>
 <b>
 
@@ -49,6 +55,4 @@
 <p align="center">
   <i>💙 Keep Learning • Keep Building • Keep Improving</i>
 </p>
-convert this to a 3D annimation style
 
-here's my own github readme do the edit with this information
