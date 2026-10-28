@@ -1,3 +1,4 @@
+i want the tech stack of my readme to look like this in the screencast
 <!-- Animated Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Edache%20John%20Ekoja&fontSize=45&fontAlign=50&fontColor=ffffff&animation=fadeIn&color=0:0D1117,50:1F6FEB,100:58A6FF" />
@@ -31,17 +32,11 @@
   <li>🎯 Goal: Become an <strong>AI-Native Backend Engineer</strong></li>
 </ul>
 <b></b>
-
 <h2>🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img
-    src="./assets/tech-stack-3d.gif"
-    alt="Animated 3D Tech Stack"
-    width="900"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,js,html,css,git,github,docker,linux,postgres,mysql,vscode&perline=6" />
 </p>
-
 
 <p>
 <b>
