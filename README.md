@@ -31,7 +31,6 @@
   <li>🎯 Goal: Become an <strong>AI-Native Backend Engineer</strong></li>
 </ul>
 <b></b>
-<h2>🛠️ Tech Stack</h2>
 
 
 ## 🛠️ Tech Stack & Skills
