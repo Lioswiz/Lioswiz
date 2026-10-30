@@ -40,6 +40,8 @@
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
+
 <p>
 <b>
 
