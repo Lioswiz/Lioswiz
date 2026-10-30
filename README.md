@@ -34,13 +34,16 @@
 <h2>🛠️ Tech Stack</h2>
 
 
-<h2 align="center">⚡ My Tech Stack</h2>
+## 🛠️ Tech Stack & Skills
+<div align="center">
 
-<p align="center">
-  <img src="./assets/tech-stack.gif"
-       alt="Animated Tech Stack"
-       width="100%" />
-</p>
+### 💻 Programming Languages:
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="70" alt="C#" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
 <p>
 <b>
 
