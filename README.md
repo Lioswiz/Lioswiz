@@ -43,6 +43,7 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
+<a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
 <img src="https://skillicons.dev/icons?i=git,vscode,linux&theme=dark" width="150" alt="Git, VS Code, Linux" />
 
 
