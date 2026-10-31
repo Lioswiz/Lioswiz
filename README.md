@@ -43,7 +43,6 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
 <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" />
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" />
 
