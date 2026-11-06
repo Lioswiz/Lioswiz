@@ -1,4 +1,3 @@
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /><!-- Animated Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Edache%20John%20Ekoja&fontSize=45&fontAlign=50&fontColor=ffffff&animation=fadeIn&color=0:0D1117,50:1F6FEB,100:58A6FF" />
 </p>
@@ -34,6 +33,8 @@
 
 
 ## 🛠️ Tech Stack & Skills
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /><!-- Animated Banner -->
+
 <div align="center">
 
 
